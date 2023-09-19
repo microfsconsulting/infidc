@@ -63,11 +63,19 @@
             <div id="myCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="../images/pexels-photo-4046996.jpeg" class="img-fluid" alt="" />
+                  <img
+                    :src="`${publicPath}/images/pexels-photo-4046996.jpeg`"
+                    class="img-fluid"
+                    alt=""
+                  />
                 </div>
 
                 <div class="carousel-item">
-                  <img src="../images/pexels-photo-4386466.webp" class="img-fluid" alt="" />
+                  <img
+                    :src="`${publicPath}/images/pexels-photo-4386466.webp`"
+                    class="img-fluid"
+                    alt=""
+                  />
                 </div>
 
                 <div class="carousel-item">
