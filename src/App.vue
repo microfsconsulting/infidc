@@ -298,7 +298,7 @@
                 </p>
 
                 <img
-                  src="images/reviews/beautiful-woman-face-portrait-brown-background.jpeg"
+                  src="../images/reviews/beautiful-woman-face-portrait-brown-background.jpeg"
                   class="img-fluid reviews-image"
                   alt=""
                 />
@@ -328,7 +328,7 @@
                 </p>
 
                 <img
-                  src="images/reviews/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+                  src="../images/reviews/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
                   class="img-fluid reviews-image"
                   alt=""
                 />
@@ -356,7 +356,7 @@
                 </p>
 
                 <img
-                  src="images/reviews/portrait-british-woman.jpeg"
+                  src="../images/reviews/portrait-british-woman.jpeg"
                   class="img-fluid reviews-image"
                   alt=""
                 />
