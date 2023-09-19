@@ -79,7 +79,11 @@
                 </div>
 
                 <div class="carousel-item">
-                  <img src="../images/pexels-photo-4492050.jpeg" class="img-fluid" alt="" />
+                  <img
+                    :src="`${publicPath}/images/pexels-photo-4492050.jpeg`"
+                    class="img-fluid"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
@@ -169,7 +173,7 @@
         <div class="row">
           <div class="col-lg-6 col-6 ps-0">
             <img
-              src="../images/pexels-photo-5206922.webp"
+              :src="`${publicPath}/images/pexels-photo-5206922.webp`"
               class="img-fluid galleryImage"
               alt="get a vaccine"
               title="Je vous écoute"
@@ -178,7 +182,7 @@
 
           <div class="col-lg-6 col-6 pe-0">
             <img
-              src="../images/pexels-photo-3952241.webp"
+              :src="`${publicPath}/images/pexels-photo-3952241.webp`"
               class="img-fluid galleryImage"
               alt="wear a mask"
               title="Vaccination"
@@ -306,7 +310,7 @@
                 </p>
 
                 <img
-                  src="../images/reviews/beautiful-woman-face-portrait-brown-background.jpeg"
+                  :src="`${publicPath}/images/reviews/beautiful-woman-face-portrait-brown-background.jpeg`"
                   class="img-fluid reviews-image"
                   alt=""
                 />
@@ -336,7 +340,7 @@
                 </p>
 
                 <img
-                  src="../images/reviews/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+                  :src="`${publicPath}/images/reviews/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg`"
                   class="img-fluid reviews-image"
                   alt=""
                 />
@@ -364,7 +368,7 @@
                 </p>
 
                 <img
-                  src="../images/reviews/portrait-british-woman.jpeg"
+                  :src="`${publicPath}/images/reviews/portrait-british-woman.jpeg`"
                   class="img-fluid reviews-image"
                   alt=""
                 />
